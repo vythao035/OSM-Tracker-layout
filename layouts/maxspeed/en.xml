@@ -6,7 +6,7 @@
             <button type="voicerec" icon="logo_voice"/>
         </row>
         <row>
-            <button type="page" label="Landscape" targetlayout="detail"/>
+            <button type="page" label="detail" targetlayout="detail"/>
         </row>
     </layout>
     <layout name="detail">
