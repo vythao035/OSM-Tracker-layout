@@ -1,0 +1,39 @@
+<layouts>
+        <layout name="root">
+		<row>
+			<button type="picture" icon="logo_camera"/>
+			<button type="textnote" icon="logo_textnote"/>
+			<button type="voicerec" icon="logo_voice"/>
+		</row>
+		<row>
+			<button type="page" label="Landscape" targetlayout="detail"/>
+		</row>
+        </layout>
+	<layout name="detail">
+		<row>
+			<button type="tag" label="···  Maxspeed 30  ···" icon="maxspeed_icons/max_30.png"/>
+			<button type="tag" label="···  Maxspeed 80  ···" icon="maxspeed_icons/max_80.png"/>
+			<button type="tag" label="···  Maxspeed End  ···" icon="maxspeed_icons/end.png"/>
+		</row>
+		<row>
+			<button type="tag" label="···  Maxspeed 40  ···" icon="maxspeed_icons/max_40.png"/>
+			<button type="tag" label="···  Maxspeed 90  ···" icon="maxspeed_icons/max_90.png"/>
+			<button type="tag" label="···  Start Residential  ···" icon="maxspeed_icons/start_residential_area.png"/>
+		</row>
+		<row>
+			<button type="tag" label="···  Maxspeed 50  ···" icon="maxspeed_icons/max_50.png"/>
+			<button type="tag" label="···  Maxspeed 100  ···" icon="maxspeed_icons/max_100.png"/>
+			<button type="tag" label="···  End Residential  ···" icon="maxspeed_icons/end_residential_area.png"/>
+		</row>
+		<row>
+			<button type="tag" label="···  Maxspeed 60  ···" icon="maxspeed_icons/max_60.png"/>
+			<button type="tag" label="···  Maxspeed 120  ···" icon="maxspeed_icons/max_120.png"/>
+			<button type="tag" label="...  Minspeed 30 ..." icon="maxspeed_icons/min_30.png"/>
+		</row>
+		<row>
+			<button type="tag" label="···  Maxspeed 70  ···" icon="maxspeed_icons/max_70.png"/>
+			<button type="tag" label="···  Maxspeed 130  ···" icon="maxspeed_icons/max_130.png"/>
+			<button type="tag" label="···  Minspeed 60  ···" icon="maxspeed_icons/min_60.png"/>
+		</row>
+        </layout>
+</layouts>
