@@ -11,7 +11,7 @@
     </layout>
     <layout name="detail">
         <row>
-            <button type="page" label="···  Maxspeed 30  ···" icon="maxspeed_icons/max_30.png" targetlayout="Maxspeed 30"/>
+            <button type="tag" label="···  Maxspeed 30  ···" icon="maxspeed_icons/max_30.png" targetlayout="Maxspeed 30"/>
             <button type="page" label="···  Maxspeed 80  ···" icon="maxspeed_icons/max_80.png"/>
             <button type="page" label="···  Maxspeed End  ···" icon="maxspeed_icons/end.png"/>
         </row>
