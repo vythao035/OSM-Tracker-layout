@@ -1,5 +1,5 @@
 
 <metadata>
-    <option iso="en" name="English"> Map main maxspeed information driving around with car or motorbike. </option>
+    <option iso="en" name="English"> Map main traffic signs. </option>
     <github username="vythao035" repo="OSM-Tracker-layout" branch="feature/traffic-signs-vt" />
 </metadata>
